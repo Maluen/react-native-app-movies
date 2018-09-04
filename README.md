@@ -3,6 +3,8 @@ react-native-app-movies
 
 Movie Library mobile app built with React Native and the OMDb API
 
+Inspired by the amazing [Cinemaniac - Movies To Watch](https://play.google.com/store/apps/details?id=it.papalillo.moviestowatch&hl=en) app.
+
 Installing and running
 --------
 
