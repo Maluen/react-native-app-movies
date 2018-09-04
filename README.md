@@ -1,6 +1,30 @@
-This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
+Movie Library
+=================
 
-The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
+Movie Library mobile app built with React Native and the OMDb API
+
+Installation and running
+--------
+
+Make sure to update the [config-private.js](https://github.com/Maluen/react-native-movies/blob/master/config-private.js) file with your OMDb API key:
+
+```
+export default {
+  "apiKey": "INSERT YOUR OMDb API KEY HERE"
+};
+```
+
+Then execute
+
+```
+yarn
+yarn start
+```
+
+create-react-native-app
+--------
+
+This project was bootstrapped with [Create React Native App](https://github.com/Maluen/react-native-movies/blob/master/config-private.js).
 
 Screenshots
 --------
