@@ -1,4 +1,4 @@
-Movie Library
+react-native-movies
 =================
 
 Movie Library mobile app built with React Native and the OMDb API
@@ -6,7 +6,7 @@ Movie Library mobile app built with React Native and the OMDb API
 Installing and running
 --------
 
-Make sure to update the [config-private.js](https://github.com/Maluen/react-native-movies/blob/master/config-private.js) file with your OMDb API key:
+Make sure to update the [config-private.js](https://github.com/Maluen/react-native-movies/blob/master/config-private.js) file with your [OMDb API key](http://www.omdbapi.com/):
 
 ```
 export default {
